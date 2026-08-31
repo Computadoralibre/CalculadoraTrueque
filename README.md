@@ -18,7 +18,7 @@ Alguna pregunta puede dirigirse al correo fractal[arroba]claro.net.do
 @ Licencía Cerrada Libre
 
 La tecnología como conocimiento de divulgación es libre para su uso por personas que así lo deseen,
-su es solo restringido para el caso que se usa en casos comerciales que en esta situación el autor
+es solo restringido para el caso que se use en casos comerciales, que en esta situación el autor
 debe de ser notificado para su permiso. 
 
 En la ley de derecho de autor figura el poder publicar conocimiento cientifico para la libre consumo
