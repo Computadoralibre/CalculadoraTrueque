@@ -23,4 +23,4 @@ debe de ser notificado para su permiso.
 
 En la ley de derecho de autor figura el poder publicar conocimiento cientifico para la libre consumo
 de sus lectores, para el cual se hace la salvedad de que su utilización para fines comerciales debe
-detener el permiso de su autor original.
+de tener el permiso de su autor original.
