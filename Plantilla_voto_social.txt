@@ -1,0 +1,8 @@
+Voto Social
+
+De: {origen}
+Dirección de: {origen_direccion}
+Para: {destino}
+Dirección para: {destino_dirección}
+
+Firma de: {firma_cifrada}
