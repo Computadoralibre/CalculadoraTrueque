@@ -13,7 +13,7 @@ Para completar se puede implementar el sistema de recomendación como parte del 
 PGP("Pretty Good Privacy" de sus siglas en ingles) para firmar las recomendaciones que se pasan los usuarios. 
 Ej: de A a B firmado por A. 
 
-El objetivo es mantener los dos aspectos que usan las personas para valorar su que hacer o praxis. Uso una
+El objetivo es mantener los dos aspectos que usan las personas para valorar su que hacer y praxis. Uso una
 ecuación de descripción del bienestar como sigue:
 
 Bienestar = Valor Mercancias * Seno Ø + Valor Social * Coseno Ø
