@@ -1,0 +1,12 @@
+Trueque Reservado
+
+Mercader A:{mercader_a}
+Mercader B:{mercader_b}
+Momento:{momento}
+Mercancía A:{mercancía_a}
+Cantidad A:{cantidad_mercancía_a}
+Mercancía B:{mercancía_b}
+Cantidad B:{cantidad_mercancía_b}
+
+Firma A:{firma_mercader_a_cifrada}
+Firma B:{firma_mercader_b_cifrada}
