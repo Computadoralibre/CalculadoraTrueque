@@ -6,8 +6,10 @@ usa para valorar las mercancias y recomendaciones sociales.
 
 Tasas de cambio o tipos de cambio, según la persona pero en resumen es el historial de la relación de intercambio
 que se tiene entre las diferentes mercancías. Desde una perspectiva de un agente economico aislado es la información
-que el agente puede acumular. Tratar de dar servicio con este modelo para muchos usuarios tendrá que ser servido en 
-una cola de mensajes, ya que tratar de dar servicio simultaneamente va a ver conflicto en la escritura.
+que el agente puede acumular. 
+
+Un contrato de trueque reservado es necesario para la adquisición de información de las tasas de cambio de las
+mercancias.
 
 Para completar se puede implementar el sistema de recomendación como parte del programa, habría que utilizar 
 PGP("Pretty Good Privacy" de sus siglas en ingles) para firmar las recomendaciones que se pasan los usuarios. 
