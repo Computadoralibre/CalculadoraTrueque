@@ -2,6 +2,8 @@ Trueque Reservado
 
 Mercader A:{mercader_a}
 Mercader B:{mercader_b}
+Dirección A:{dirección_mercader_a}
+Dirección B:{dirección_mercader_b}
 Momento:{momento}
 Mercancía(s) A:{mercancía_a_lista}
 Cantidad A:{cantidad_mercancía_a_lista}
