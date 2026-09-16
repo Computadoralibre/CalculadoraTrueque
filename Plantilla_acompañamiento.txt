@@ -1,0 +1,13 @@
+Acompañamiento
+
+Nombre A:{nombre_A}
+Nombre B:{nombre_B}
+Periodo de revisión:{periodo_revisión}
+Momento:{momento}
+
+Distribución ingreso en porciento
+A:{porcentaje_A}
+B:{porcentaje_B}
+
+Firma A:{firma_A_cifrada}
+Firma B:{firma_B_cifrada}
