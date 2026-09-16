@@ -1,0 +1,9 @@
+Recibo
+
+Identificador:{identificador}
+Nombre a:{nombre_a}
+Nombre de:{nombre_de}
+Cantidad:{cantidad}
+Momento:{momento}
+
+Firma de:{firma_de_cifrada}

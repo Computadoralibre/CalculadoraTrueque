@@ -1,0 +1,17 @@
+Trabajo
+
+Nombre A:{nombre_a}
+Profesión:{profesión_a}
+Dirección A:{dirección_a}
+Nombre(s) de:{nombre_de_lista}
+Direccion(es) de:{dirección_de_lista}
+Momento desde:{momento_desde}
+Momento hasta:{momento_hasta}
+Periodo:{periodo}
+
+Entrega
+Mercancía(s):{mercancía_lista}
+Cantidad(es):{cantidad_mercancía_lista}
+
+Firma A:{firma_a_cifrada}
+Firma(s) de:{firma_de_cifrada_lista}

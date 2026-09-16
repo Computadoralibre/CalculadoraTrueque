@@ -1,0 +1,10 @@
+Acopio
+
+Identificador:{identificador_acopio}
+Momento desde:{momento_desde}
+Momento hasta:{momento_hasta}
+Periodo:{periodo}
+Mercancía:{mercancía}
+Cantidad:{cantidad}
+
+Firmas:{firma_lista}

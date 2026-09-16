@@ -1,0 +1,22 @@
+Trueque Temporal
+
+Identificador:{identificador}
+Mercader A:{mercader_a}
+Mercader B:{mercader_b}
+Dirección A:{dirección_mercader_a}
+Dirección B:{dirección_mercader_b}
+Momento desde:{momento_desde}
+Momento hasta:{momento_hasta}
+
+Entrega
+Mercancía(s):{mercancia_a_lista}
+Cantidad(es):{cantidad_a_lista}
+
+Periodo:{periodo}
+
+Recibir
+Mercancía(s):{mercancia_b_lista}
+Cantidad(es):{mercancia_b_lista}
+
+Firma A:{firma_mercader_a_cifrada}
+Firma B:{firma_mercader_b_cifrada}
